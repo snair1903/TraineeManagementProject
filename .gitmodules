@@ -1,0 +1,9 @@
+[submodule "Workers"]
+	path = Workers
+	url = https://github.com/snair1903/TraineeManagement.api.Workers
+[submodule "TraineeManagement.api"]
+	path = TraineeManagement.api
+	url = https://github.com/snair1903/TraineeManagement.api
+[submodule "TrainingDirectory.Api"]
+	path = TrainingDirectory.Api
+	url = https://github.com/snair1903/TrainingDirectory.Api
